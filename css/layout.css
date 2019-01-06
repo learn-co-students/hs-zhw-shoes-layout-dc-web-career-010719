@@ -25,3 +25,29 @@
 /* Positioning Classes */
 
 
+.col_1 {
+  width: 32%;
+  display: block;
+  float: left;
+}
+.col_2 {
+  width: 32%;
+  display: block;
+  float: left;
+}
+.col_3 {
+  width: 32%;
+  display: block;
+  float: left;
+}
+
+.col_4 {
+  width: 65%;
+  display: block;
+  float: left;
+}
+.col_5 {
+  width: 32%;
+  display: block;
+  float: left;
+}
